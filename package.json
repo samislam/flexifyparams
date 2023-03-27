@@ -5,7 +5,7 @@
     "typescript": "^5.0.2"
   },
   "name": "flexifyparams",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a helper utility for getting the parameter values if they're supposed to be be functions or other type of values",
   "main": "./dist/index.js",
   "devDependencies": {},
