@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "@types/lodash": "^4.14.191",
+    "lodash": "^4.17.21",
+    "typescript": "^5.0.2"
+  },
+  "name": "flexifyparams",
+  "version": "1.0.0",
+  "description": "a helper utility for getting the parameter values if they're supposed to be be functions or other type of values",
+  "main": "./dist/index.js",
+  "devDependencies": {},
+  "type": "commonjs",
+  "types": "./@types/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tsc",
+    "build:dev": "npx tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samislam/flexifyparams.git"
+  },
+  "keywords": [
+    "flexify",
+    "function-to-vars",
+    "function-params",
+    "params",
+    "destructure-params",
+    "getValues"
+  ],
+  "author": "Islam Yamor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samislam/flexifyparams/issues"
+  },
+  "homepage": "https://github.com/samislam/flexifyparams#readme"
+}
